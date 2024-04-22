@@ -1,7 +1,7 @@
 
 
 ![screenshot](readme.jpeg)
-### View on the website [Link](https://tidkeashok007.github.io/insta_reach_analysis/)
+### View on the website [Link](https://tidkeashok007.github.io/insta_reach_analysis_power_BI/)
 # Instagram Reach Analysis 
 This Notebook deals with prediction of instagram Reaches.
 
